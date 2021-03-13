@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "Share♐️", url="tg://msg?text=Hai%20Friend+❤️,+Today%20i+just+found+out+an+intresting+and+Powerful+**Music+BOT**+for+Free🥰.+**Bot+Link**+:+@AR_MUSIC_STREAMER_BOT+🔥"
+                        "Other Bots", url="https://t.me/VKPROJECTS"
                     )
                 ],
                 [
