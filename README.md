@@ -1,5 +1,23 @@
 # Group Music Bot
 
+### HEROKU VARAS
+
+API_ID _༆IT CAN BE FOUND ON_➪[OFFICIAL WEB ](http://my.telegram.org )
+
+API_HASH _༆SAME AS API ID_➪[OFFICIAL WEB ](http://my.telegram.org )
+
+BOT_TOKEN_༆IT CAN BE FOUND ON TELEGRAM_➪[BOT FATHER](http://t.me/BotFather)
+
+DURATION_LIMIT _༆IT IS AN INTEGER FOR DURATION LIMIT OF SONGS THE TM DEFAULT VALUE IS 10 M SO YOU CAN SET UPTO 60 MINUTES_ (In minutes ).
+
+SESSION_NAME _༆THAT PYROGRAM STRING SESSION CAN BE FOUND BELOW_
+
+SUDO_USERS _༆LIST OF TG USER ID's IS COUNTED AS AS ADMIN EVERYWHERE.(separated by space)_
+
+**PYROGRAM STRRING⤵️
+
+<a href="https://t.me/ScrapperRoBot" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-green?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>   
+
 ## Note
 
 Neither this, or PyTgCalls are fully stable.
