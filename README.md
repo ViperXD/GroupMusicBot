@@ -18,9 +18,9 @@ SUDO_USERS _༆LIST OF TG USER ID's IS COUNTED AS AS ADMIN EVERYWHERE.(separated
 
 <a href="https://t.me/ScrapperRoBot" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-green?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>   
 
-## Deploy On Heroku
+## Click Here
 
-https://github.com/v-v-r-official/GroupMusicBot/blob/main/README.md#heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/v-v-r-official/GroupMusicBot/blob/main/README.md#heroku)
 
 
 ## Note
