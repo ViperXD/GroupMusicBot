@@ -1,7 +1,7 @@
 {
-  "name": "MUSIC-PLAYER-PM",
+  "name": "TG-MUSIC",
   "description": "OPEN-SOURCE BOT TO PLAY SONGS IN YOUR TELEGRAM GROUP'S VOICE CHAT .",
-  "logo": "https://telegra.ph/file/1cf5eeec49e9421766ec5.jpg",
+  "logo": "https://telegra.ph/file/28986bdaf2e2720ada1be.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/PURHSHOTTAM/MUSIC-PLAYER-PM2",
   "stack": "container",
