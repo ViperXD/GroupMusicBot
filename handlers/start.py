@@ -11,14 +11,14 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am Music Player, an bot BY @VKPROJECTS that lets you play music in your Telegram groups.
+I am Music Player,An bot that lets you play music in your Telegram groups.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Other Bots", url="https://t.me/VKPROJECTS"
+                        "My Creator", url="https://t.me/vivekTVP"
                     )
                 ],
                 [
